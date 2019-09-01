@@ -1,5 +1,7 @@
 # Quora_Insincere_Questions
 
+__Blog Post__: https://medium.com/@ronaksvijay/quora-insincere-questions-classification-d5a655370c47
+
 ### Problem Statement
 - Detect toxic content to improve online conversations.
 - We have to develop models that identify and flag insincere questions.
